@@ -5,13 +5,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Victor Dante Fonseca Oliveira
+- Matricula:909385
 
-## Print do console do navegador
+## Print do console do navegado
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![Print do console](print-console.jpeg)
+![Print modo responsivo](print-responsivo.jpeg)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
